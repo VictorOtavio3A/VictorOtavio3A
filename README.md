@@ -1,4 +1,13 @@
 ### Hi there 👋
+### Boas vindas ao meu perfil :VictorOtavio3A
+
+Meu nome é Victor
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
 
 <!--
 **VictorOtavio3A/VictorOtavio3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
